@@ -1,38 +1,36 @@
-# TVBox 电视频道菜单自定义与直播源接口自动更新
+# TVBox 电视频道菜单自定义与直播源接口自动校验与更新工具
 
-自定义频道菜单，根据模板文件的直播源接口，自动获取并更新最新的直播源接口，生成可用的频道接口文件
+自定义频道菜单，根据模板文件的直播源接口，自动获取并更新最新的直播源接口，校验并生成可用的频道接口文件
 
-[English](./README-EN.md) | 中文
+[English](./README_en.md) | 中文
 
 ## 特点
 
 - 自定义模板，生成您想要的频道分类与频道顺序
 - 接口验效，过滤无效接口
 - 按响应时间、分辨率综合权衡排序
-- 定时执行，每隔 12 小时执行更新一次
+- 定时执行，北京时间每日 8:00 执行更新一次
 - 可设置重点关注频道，单独配置获取分页的数量
 - 分页结果获取（可配置页数、接口数量）
 - 保证更新时效性，配置获取最近时间范围内更新的接口
 - 可过滤 ipv4、ipv6 接口
+- 黑名单功能：接口域名与关键字
+- 支持多种获取源方式：线上检索、组播源、订阅源
 
 ## 配置
 
-| 配置项               | 默认值             | 描述                                                               |
-| -------------------- | ------------------ | ------------------------------------------------------------------ |
-| source_file          | "demo.txt"         | 模板文件名称                                                       |
-| final_file           | "result.txt"       | 生成文件名称                                                       |
-| favorite_list        | ["CCTV1","CCTV13"] | 关注频道名称列表（仅用于与常规频道区分，自定义获取分页数量）       |
-| favorite_page_num    | 6                  | 关注频道获取分页数量                                               |
-| default_page_num     | 4                  | 常规频道获取分页数量                                               |
-| urls_limit           | 15                 | 单个频道接口数量                                                   |
-| response_time_weight | 0.5                | 响应时间权重值（所有权重值总和应为 1）                             |
-| resolution_weight    | 0.5                | 分辨率权重值 （所有权重值总和应为 1）                              |
-| recent_days          | 30                 | 获取最近时间范围内更新的接口（单位天），适当减小可避免出现匹配问题 |
-| ipv_type             | "ipv4"             | 生成结果中接口的类型，可选值："ipv4"、"ipv6"、"all"                |
+[配置参数](./docs/config.md)
 
 ## 快速上手
 
+[更新工具软件](https://github.com/Guovin/TV/releases)
+
 有关详细教程，请查看[快速上手](./docs/tutorial.md)
+
+如果您不想折腾，刚好我的配置符合您的需求，可以使用以下链接：
+
+- 接口源：https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/result.txt
+- 数据源：https://ghproxy.net/raw.githubusercontent.com/Guovin/TV/gd/source.json
 
 ## 更新日志
 
@@ -57,3 +55,7 @@
 ## 许可证
 
 [MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
+
+## 赞赏
+
+![image](./docs/images/appreciate.jpg)
