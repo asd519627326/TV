@@ -1,7 +1,26 @@
-Name: 广州竞赛, URL: https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca, Date: None, Resolution: None, Response Time: 2421ms
-Name: 珠海, URL: http://www.namewee.xyz/gudou.php?id=zhuhaiHD1_4500, Date: None, Resolution: None, Response Time: 5327ms
-Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 2005ms
-Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 1929ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 563ms
-Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 550ms
-Name: 广东珠江, URL: http://gmxw.7766.org:808/hls/83/index.m3u8, Date: None, Resolution: None, Response Time: 1529ms
+Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/d3741ec470366b3f6a8fc169450a0191
+Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f3829181ee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d3741ec470366b3f6a8fc169450a0191
+Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f38291813d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/d3741ec470366b3f6a8fc169450a0191
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 165ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 188ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 207ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 242ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 259ms
+Name: 开平综合, URL: https://skype.serv00.net/itouch.php?id=kpzh, Date: None, Resolution: None, Response Time: 977ms
+Name: 开平生活, URL: https://skype.serv00.net/itouch.php?id=kpsh, Date: None, Resolution: None, Response Time: 995ms
+Name: 广州竞赛, URL: https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca, Date: None, Resolution: None, Response Time: 2914ms
+Name: 新会综合, URL: http://www.namewee.xyz/gudou.php?id=xinhui_1500, Date: None, Resolution: None, Response Time: 7157ms
+Name: 广东新闻, URL: http://www.namewee.xyz/gudou.php?id=1454, Date: None, Resolution: None, Response Time: 7185ms
+Name: 佛山综合, URL: http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500, Date: None, Resolution: None, Response Time: 7253ms
+Name: 广东体育, URL: https://skype.serv00.net/itouch.php?id=gdty, Date: None, Resolution: None, Response Time: 987ms
+Name: 佛山影视, URL: http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500, Date: None, Resolution: None, Response Time: 7575ms
+Name: 珠海, URL: http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500, Date: None, Resolution: None, Response Time: 8344ms
+Name: 珠海, URL: http://www.namewee.xyz/gudou.php?id=zhuhaiHD1_4500, Date: None, Resolution: None, Response Time: 8345ms
+Name: 佛山公共, URL: http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500, Date: None, Resolution: None, Response Time: 8356ms
+Name: 凤凰资讯, URL: https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8, Date: None, Resolution: None, Response Time: 3130ms
+Name: 大湾区卫视, URL: http://www.namewee.xyz/gudou.php?id=1456, Date: None, Resolution: None, Response Time: 7500ms
+Name: 凤凰中文, URL: https://k44991.kylintv.tv/live/pxna_iphone.m3u8, Date: None, Resolution: None, Response Time: 3125ms
+Name: CCTV-11, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 624ms
+Name: 广东珠江, URL: http://gmxw.7766.org:808/hls/83/index.m3u8, Date: None, Resolution: None, Response Time: 1591ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 639ms
+Name: 大湾区卫视, URL: http://www.namewee.xyz/gudou.php?id=1456, Date: None, Resolution: None, Response Time: 8249ms
