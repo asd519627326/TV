@@ -1,24 +1,20 @@
-Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'RemoteDisconnected('Remote end closed connection without response')': /session/3d3a3e65168571e987285720b3dbf354
-Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb100a14c40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/3d3a3e65168571e987285720b3dbf354
-Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb100a8c850>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/3d3a3e65168571e987285720b3dbf354
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 25ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 26ms
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 27ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 28ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 26ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8, Date: None, Resolution: None, Response Time: 27ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 28ms
 Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 29ms
-Name: 广东体育, URL: https://skype.serv00.net/itouch.php?id=gdty, Date: None, Resolution: None, Response Time: 1811ms
-Name: 广东体育, URL: http://www.namewee.xyz/gudou.php?id=1413, Date: None, Resolution: None, Response Time: 7953ms
-Name: 珠海, URL: http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500, Date: None, Resolution: None, Response Time: 8333ms
-Name: 新会综合, URL: http://www.namewee.xyz/gudou.php?id=xinhui_1500, Date: None, Resolution: None, Response Time: 8397ms
-Name: 佛山公共, URL: http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500, Date: None, Resolution: None, Response Time: 8404ms
-Name: 鹤山综合, URL: http://www.namewee.xyz/gudou.php?id=3709, Date: None, Resolution: None, Response Time: 8413ms
-Name: 顺德综合, URL: http://www.namewee.xyz/gudou.php?id=shundeHD_4500, Date: None, Resolution: None, Response Time: 8838ms
-Name: 佛山综合, URL: http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500, Date: None, Resolution: None, Response Time: 8866ms
-Name: 开平综合, URL: https://skype.serv00.net/itouch.php?id=kpzh, Date: None, Resolution: None, Response Time: 1342ms
-Name: 开平生活, URL: https://skype.serv00.net/itouch.php?id=kpsh, Date: None, Resolution: None, Response Time: 1347ms
-Name: 大湾区卫视, URL: http://www.namewee.xyz/gudou.php?id=1456, Date: None, Resolution: None, Response Time: 8819ms
-Name: 江门侨乡生活, URL: http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500, Date: None, Resolution: None, Response Time: 8333ms
-Name: 大湾区卫视, URL: http://www.namewee.xyz/gudou.php?id=1456, Date: None, Resolution: None, Response Time: 8421ms
-Name: 广东珠江, URL: http://gmxw.7766.org:808/hls/83/index.m3u8, Date: None, Resolution: None, Response Time: 1404ms
-Name: 江门综合, URL: http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD, Date: None, Resolution: None, Response Time: 8058ms
-Name: 广东新闻, URL: http://www.namewee.xyz/gudou.php?id=1454, Date: None, Resolution: None, Response Time: 8061ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 29ms
+Name: 广东体育, URL: https://skype.serv00.net/itouch.php?id=gdty, Date: None, Resolution: None, Response Time: 1927ms
+Name: 广东体育, URL: http://www.namewee.xyz/gudou.php?id=1413, Date: None, Resolution: None, Response Time: 9444ms
+Name: 新会综合, URL: http://www.namewee.xyz/gudou.php?id=xinhui_1500, Date: None, Resolution: None, Response Time: 9455ms
+Name: 鹤山综合, URL: http://www.namewee.xyz/gudou.php?id=3709, Date: None, Resolution: None, Response Time: 9712ms
+Name: 顺德综合, URL: http://www.namewee.xyz/gudou.php?id=shundeHD_4500, Date: None, Resolution: None, Response Time: 9863ms
+Name: 佛山公共, URL: http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500, Date: None, Resolution: None, Response Time: 9926ms
+Name: 开平生活, URL: https://skype.serv00.net/itouch.php?id=kpsh, Date: None, Resolution: None, Response Time: 1316ms
+Name: 开平综合, URL: https://skype.serv00.net/itouch.php?id=kpzh, Date: None, Resolution: None, Response Time: 1316ms
+Name: 佛山影视, URL: http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500, Date: None, Resolution: None, Response Time: 10360ms
+Name: 佛山综合, URL: http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500, Date: None, Resolution: None, Response Time: 10412ms
+Name: 广东新闻, URL: http://www.namewee.xyz/gudou.php?id=1454, Date: None, Resolution: None, Response Time: 9722ms
+Name: 珠海, URL: http://www.namewee.xyz/gudou.php?id=zhuhaiHD1_4500, Date: None, Resolution: None, Response Time: 10459ms
+Name: 广东珠江, URL: http://gmxw.7766.org:808/hls/83/index.m3u8, Date: None, Resolution: None, Response Time: 2736ms
+Name: 大湾区卫视, URL: http://www.namewee.xyz/gudou.php?id=1456, Date: None, Resolution: None, Response Time: 9047ms
+Name: 江门侨乡生活, URL: http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500, Date: None, Resolution: None, Response Time: 9700ms
